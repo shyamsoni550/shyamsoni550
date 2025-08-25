@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vaya Shyam  
 
-##**`Aspiring Full Stack Developer (MERN & Python)`**  
+## **`Aspiring Full Stack Developer (MERN & Python)`**  
 
 Recently Paasout  **Computer Engineering student** at *Aditya Silver Oak Institute of Technology* (CGPA: **8.22**).  
 Passionate about **building scalable web apps** and exploring **backend systems with Python & MERN stack**, I enjoy solving complex problems with elegant solutions.  

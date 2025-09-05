@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vaya Shyam  
 
-## **`Aspiring Full Stack Developer (MERN & Python)`**  
+## **`Aspiring Full Stack Developer (MERN, Next.js & AI Enthusiast)`**  
 
 Recently Paasout  **Computer Engineering student** at *Aditya Silver Oak Institute of Technology* (CGPA: **8.22**).  
 Passionate about **building scalable web apps** and exploring **backend systems with Python & MERN stack**, I enjoy solving complex problems with elegant solutions.  
@@ -10,12 +10,13 @@ I’m currently seeking **full-time software development opportunities** where I
 
 ## 🛠️ Tech Stack  
 
-### 🚀 Languages & Frameworks  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)  
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)  
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
+### 🚀 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 
 ### 🎨 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
@@ -59,24 +60,19 @@ I’m currently seeking **full-time software development opportunities** where I
 
 ## 🚀 Featured Projects  
 
-### 🔹 [Portfolio](https://shyamvaya.vercel.app/)  
-A personal portfolio showcasing my skills, projects, and achievements.  
-**Tech:** React.js, Tailwind CSS  
+### 🔹 [Portfolio](https://shyamvaya.vercel.app/)
+A personal portfolio showcasing my skills, projects, and achievements.
+**Tech:** React.js, Tailwind CSS
 
-### 🔹 Salary Predictor  
-A machine learning-powered app that predicts salaries based on input parameters.  
-**Tech:** Python, Streamlit, NumPy, Pandas  
-[GitHub Repo](#) | [Live Demo](#) *(add links when available)*  
+### 🔹 Tide Tracker App
+A responsive React web app built with Vite that provides real-time tide information based on user location.
+**Tech:** React, Vite, Tailwind CSS, APIs
+[GitHub Repo](https://github.com/shyamsoni550/tide-app) | [Live Demo](https://tide-app-two.vercel.app/)
 
-### 🔹 [Weather API](https://weather-api-js-eight.vercel.app/)  
-Built a RESTful API from scratch (no frameworks) to serve real-time weather data.  
-**Tech:** JavaScript (Node.js)  
-[GitHub Repo](https://github.com/shyamsoni550/weather-api-js)  
-
-### 🔹 [Password Generator](https://react-password-generator-ten-phi.vercel.app/)  
-A secure and customizable password generator with a sleek UI.  
-**Tech:** React.js, Tailwind CSS  
-[GitHub Repo](https://github.com/shyamsoni550/React-password-generator)  
+### 🔹 School Management App
+A cloud-based School Management System that displays school details (name, address, city, state, contact info, and images) through a modern, responsive UI. Built with Next.js and Tailwind CSS, powered by a secure Aiven MySQL backend, and deployed on Vercel for scalable global access.
+**Tech:** Next.js, Tailwind CSS, MySQL
+[GitHub Repo](https://github.com/shyamsoni550/School-managment-App) | [Live Demo](https://school-managment-app-iota.vercel.app/)
 
 ---
 
@@ -102,4 +98,5 @@ A secure and customizable password generator with a sleek UI.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaya-shyam/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/shyamsoni550)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Vayashyam550@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://shyamvaya.vercel.app/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://shyamvaya.vercel.app/)
+
